@@ -1,0 +1,48 @@
+ [
+      {
+        "id": 1,
+        "nom": "Dupont",
+        "prenom": "Jean",
+        "email": "jean.dupont@example.com",
+        "poste": "Ingénieur logiciel",
+        "salaire": 45000,
+        "motDePasse": "password123"
+      },
+      {
+        "id": 2,
+        "nom": "Durand",
+        "prenom": "Marie",
+        "email": "marie.durand@example.com",
+        "poste": "Chef de projet",
+        "salaire": 50000,
+        "motDePasse": "mdpSecure456"
+      },
+      {
+        "id": 3,
+        "nom": "Martin",
+        "prenom": "Pierre",
+        "email": "pierre.martin@example.com",
+        "poste": "Designer UX",
+        "salaire": 40000,
+        "motDePasse": "pierrePassword789"
+      },
+      {
+        "id": 4,
+        "nom": "Lefebvre",
+        "prenom": "Sophie",
+        "email": "sophie.lefebvre@example.com",
+        "poste": "Développeur Front-end",
+        "salaire": 42000,
+        "motDePasse": "sophieSecure101112"
+      },
+      {
+        "id": 5,
+        "nom": "Moreau",
+        "prenom": "Luc",
+        "email": "luc.moreau@example.com",
+        "poste": "Analyste de données",
+        "salaire": 47000,
+        "motDePasse": "lucMotDePasse131415"
+      }
+    ]
+  
